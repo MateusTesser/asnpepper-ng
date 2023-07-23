@@ -7,7 +7,6 @@ import (
 	"os"
 	"regexp"
 	"strings"
-
 	"github.com/PuerkitoBio/goquery"
 	"github.com/go-rod/rod"
 )
